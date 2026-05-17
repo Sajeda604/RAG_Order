@@ -1,0 +1,7 @@
+venv/
+vectorstore/
+audio_uploads/
+.env
+__pycache__/
+*.pyc
+*.db
